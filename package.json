@@ -1,0 +1,16 @@
+{
+	"name": "reestart-framework",
+	"devDependencies": {
+		"browser-sync": "latest",
+		"gulp": "latest",
+		"gulp-autoprefixer": "latest",
+		"gulp-combine-mq": "latest",
+		"gulp-concat": "latest",
+		"gulp-csso": "latest",
+		"gulp-imagemin": "latest",
+		"gulp-less": "latest",
+		"gulp-load-plugins": "latest",
+		"gulp-uglify": "latest",
+		"merge-stream": "latest"
+	}
+}
